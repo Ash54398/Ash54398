@@ -91,17 +91,6 @@ Web platform for managing business and operational processes. A project where I 
 
 <br/>
 
-## `GITHUB STATS`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ash54398&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&icon_color=ff6a00&text_color=c9a9ff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ash54398&theme=radical&hide_border=true&background=0d0221&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash54398&bg_color=0d0221&color=ff6a00&line=ff6a00&point=c9a9ff&hide_border=true" width="97%"/>
-</div>
-
 ## `CURRENTLY`
 
 🎧 Now playing: Stay With Me — Miki Matsubara
