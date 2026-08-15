@@ -23,7 +23,9 @@ Junior Developer
 
 📍 Mexico
 📧 hugoscabello044@gmail.com
+
 🔗 [github.com/Ash54398](https://github.com/Ash54398)
+
 💼 [LinkedIn](https://www.linkedin.com/in/hugo-s-cabello-9136b43b7)
 
 </td>
