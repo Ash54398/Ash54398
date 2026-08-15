@@ -94,16 +94,12 @@ Web platform for managing business and operational processes. A project where I 
 ## `GITHUB STATS`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ash54398&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&icon_color=ff6a00&text_color=c9a9ff&count_private=true&cache_seconds=86400" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash54398&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&text_color=c9a9ff&langs_count=8&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats-two-livid-13.vercel.app/api?username=Ash54398&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&icon_color=ff6a00&text_color=c9a9ff&count_private=true" height="180"/>
+<img src="https://github-readme-stats-two-livid-13.vercel.app/api/top-langs/?username=Ash54398&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&text_color=c9a9ff&langs_count=8" height="180"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ash54398&theme=radical&hide_border=true&background=0d0221&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9a9ff&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=Ash54398&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7&cache_seconds=86400" width="97%"/>
 </div>
 
 <div align="center">
