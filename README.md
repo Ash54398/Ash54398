@@ -94,8 +94,8 @@ Web platform for managing business and operational processes. A project where I 
 ## `GITHUB STATS`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ash54398&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&icon_color=ff6a00&text_color=c9a9ff&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash54398&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&text_color=c9a9ff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ash54398&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&icon_color=ff6a00&text_color=c9a9ff&count_private=true&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash54398&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff6a00&text_color=c9a9ff&langs_count=8&cache_seconds=86400" height="180"/>
 </div>
 
 <div align="center">
@@ -103,11 +103,11 @@ Web platform for managing business and operational processes. A project where I 
 </div>
 
 <div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=Ash54398&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7" width="97%"/>
+<img src="https://github-readme-trophies.vercel.app/?username=Ash54398&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7&cache_seconds=86400" width="97%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash54398&bg_color=0d0221&color=ff6a00&line=ff6a00&point=c9a9ff&hide_border=true&area=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash54398&bg_color=0d0221&color=ff6a00&line=ff6a00&point=c9a9ff&hide_border=true&area=true&cache_seconds=86400" width="97%"/>
 </div>
 
 <div align="center">
