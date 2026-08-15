@@ -64,7 +64,7 @@ Junior Developer
 <table>
 <tr>
 <td width="40%">
-<img src="assets/gengar.jpg" width="100%"/>
+<img src="gengar.jpg" width="100%"/>
 </td>
 <td width="60%" valign="top">
 
