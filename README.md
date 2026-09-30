@@ -16,15 +16,15 @@
 **Ash54398**
 
 `</>` Software Engineering Student
-Junior Developer
+Junior Full-Stack Developer
 
-> *"The best developers are those who never stop learning."*
-> — Ikari Shinji
+> *「逃げちゃダメだ」*
+> *I mustn't run away.* — Shinji Ikari
 
-📍 Mexico
+📍 Ciudad del Carmen, Mexico
 📧 hugoscabello044@gmail.com
 
-🔗 [github.com/Ash54398](https://github.com/Ash54398)
+🌐 [Portfolio](https://hugocabello.vercel.app)
 
 💼 [LinkedIn](https://www.linkedin.com/in/hugo-s-cabello-9136b43b7)
 
@@ -34,6 +34,7 @@ Junior Developer
 ### `ABOUT ME`
 
 - 🎓 Software Engineering Student
+- 💼 Freelance developer building web apps for real businesses
 - 💻 Passionate about Backend & Full-Stack Development
 - ☕ Java & Spring Boot enthusiast
 - ⚛️ Building with React & TypeScript
@@ -49,11 +50,15 @@ Junior Developer
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <br/>
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 </td>
@@ -67,27 +72,27 @@ Junior Developer
 <table>
 <tr>
 <td width="40%">
-<img src="gengar.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ash54398/hugo-portafolio/main/public/proyectos/olimpo/sitio-publico.jpg" width="100%"/>
 </td>
 <td width="60%" valign="top">
 
 ### Olimpo Operations Platform
-`Personal Freelance Project`
+`Freelance · Client Project`
 
-Web platform for managing business and operational processes. A project where I apply my knowledge to real-world problems and continue growing as a developer.
+Corporate website and internal ERP for an oil & gas services company. A project where I apply my knowledge to real-world problems and continue growing as a developer.
 
 - 👥 Client Management
 - 📋 Quotes Management
 - 🏭 Operational Units
-- 🔐 User Authentication & Roles
+- 🔐 User Authentication & Roles (10 roles, row-level security)
 - 📊 Daily Production Tracking
 - 📈 Operational Reports
 - 📅 Meetings Management
 
-**Tech:** React • TypeScript • Supabase
+**Tech:** React • TypeScript • Material UI • Supabase
 
-[**View Repository →**](https://github.com/Ash54398)
-https://olp.com.mx/
+🔗 [**Visit olp.com.mx →**](https://olp.com.mx) · 🖼️ [**See screenshots in my portfolio →**](https://hugocabello.vercel.app)
+
 </td>
 </tr>
 </table>
@@ -102,11 +107,7 @@ https://olp.com.mx/
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ash54398&theme=radical&hide_border=true&background=0d0221&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9a9ff&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ash54398&bg_color=0d0221&color=ff6a00&line=ff6a00&point=c9a9ff&hide_border=true&area=true&cache_seconds=86400" width="97%"/>
+<img src="https://streak-stats.demolab.com/?user=Ash54398&theme=radical&hide_border=true&background=0d0221&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9a9ff&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
 </div>
 
 <div align="center">
