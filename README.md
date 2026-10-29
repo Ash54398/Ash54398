@@ -108,7 +108,7 @@ Corporate website + internal ERP for an oil & gas services company.
 ## `> SYNC_STATUS`
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Ash54398&hide_border=true&border_radius=8&background=0d0221&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9a9ff&currStreakNum=ffffff&sideNums=ffffff&dates=c9a9ff&stroke=4a0e0e" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Ash54398&v=2&hide_border=true&border_radius=8&background=0d0221&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9a9ff&currStreakNum=ffffff&sideNums=ffffff&dates=c9a9ff&stroke=4a0e0e" height="165"/>
 <img src="https://github-readme-stats-two-livid-13.vercel.app/api/top-langs/?username=Ash54398&layout=compact&hide_border=true&border_radius=8&bg_color=0d0221&title_color=ff6a00&text_color=c9a9ff&langs_count=6&custom_title=Most%20used%20languages" height="165"/>
 </p>
 
