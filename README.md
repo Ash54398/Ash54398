@@ -49,7 +49,7 @@ side_quests: [🎮 gaming, 🎧 city pop]
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://avatars.githubusercontent.com/Ash54398" width="170"/>
+<img src="https://avatars.githubusercontent.com/Ash54398" width="160"/>
 
 > *「逃げちゃダメだ」*<br/>
 > *I mustn't run away.*<br/>
@@ -57,6 +57,8 @@ side_quests: [🎮 gaming, 🎧 city pop]
 
 🎧 **Now playing**<br/>
 <sub>Stay With Me — Miki Matsubara</sub>
+
+<img src="https://raw.githubusercontent.com/Ash54398/Ash54398/main/gengar.gif" width="120" alt="Gengar"/>
 
 </td>
 </tr>
@@ -72,29 +74,21 @@ side_quests: [🎮 gaming, 🎧 city pop]
 **UI · Data · Tools**<br/>
 <img src="https://skillicons.dev/icons?i=materialui,tailwind,supabase,postgres,mysql,git,github,vercel,vscode&theme=dark" />
 
-**Learning next**<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
-
 </div>
 
 ## `> FEATURED_PROJECT`
 
 <table>
 <tr>
-<td width="42%" valign="top">
-<a href="https://olp.com.mx">
-<img src="./assets/olimpo.jpg" width="100%"/>
-</a>
-</td>
-<td width="58%" valign="top">
+<td valign="top">
 
-### Olimpo Operations Platform
+### 🛢️ Olimpo Operations Platform
 `Freelance · Client project · In production`
 
 Corporate website + internal ERP for an oil & gas services company.
 
-| Module | |
-|---|---|
+| Module | Status |
+|---|:---:|
 | 👥 Clients & 📋 Quotes | ✅ |
 | 🏭 Operational units & 📊 Daily production | ✅ |
 | 📈 Reports & 📅 Meetings | ✅ |
@@ -130,6 +124,7 @@ Corporate website + internal ERP for an oil & gas services company.
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Ash54398/Ash54398/main/gengar.gif" width="56"/><br/>
 **NERV** · <sub>God's in his heaven. All's right with the world.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4a0e0e,100:000000&height=110&section=footer" width="100%"/>
